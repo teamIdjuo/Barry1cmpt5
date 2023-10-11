@@ -15,11 +15,11 @@
   "admob_banner": "",
   "admob_interstitial": "",
 
-  "unity_app_id": "5435963",
+  "unity_app_id": "5436104",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
 
-  "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
+  "appLovin_app_id": "",
   "appLovin_banner": "7e57cbfce2a63f91",
   "appLovin_interstitial": "3d01866d2eaab339"
 }
