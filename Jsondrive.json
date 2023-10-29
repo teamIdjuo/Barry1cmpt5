@@ -11,9 +11,9 @@
     "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/333.png",
     "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
 
-  "admob_app_id": "",
-  "admob_banner": "",
-  "admob_interstitial": "",
+  "admob_app_id": "ca-app-pub-2033079489526847~7060613271",
+  "admob_banner": "ca-app-pub-2033079489526847/8389172668",
+  "admob_interstitial": "ca-app-pub-2033079489526847/7293930450",
 
   "unity_app_id": "5435963",
   "unity_banner": "Banner_Android",
