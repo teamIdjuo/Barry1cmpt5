@@ -1,19 +1,19 @@
 {
       "our_ads1_activation":"true",
-    "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt5/main/escapePrison.png",
-    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.barry.runobby.escapeprison",
+    "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt5/main/JaxyCircus2.png",
+    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.NOXCorpStudios.DigitalCircusPrison",
 
     "our_ads2_activation":"true",
-    "our_ads2_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt5/main/policeCar3.png",
-    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.police.car.crush.simulator",
+    "our_ads2_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt5/main/icon1.png",
+    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.NOXCorpStudios.DigitalCircusPrison",
 
     "our_ads3_activation":"true",
-    "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt5/main/pomnicon2.png",
+    "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt5/main/icon2.png",
     "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.NOXCorpStudios.DigitalCircusPrison",
 
     "our_ads_inter_activation":"true",
-    "our_ads_inter_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt5/main/policeCarInter.jpeg",
-    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.police.car.crush.simulator",
+    "our_ads_inter_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt5/main/rateUs.png",
+    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.startgames.escape.barry.prison.obby.jailbreak",
 
   "admob_app_id": "",
   "admob_banner": "",
